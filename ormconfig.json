@@ -1,0 +1,13 @@
+{
+    "type": "mysql",
+    "host": "173.230.154.140",
+    "port": 3307,
+    "username": "root",
+    "password": "dev",
+    "database": "jjquimienvases",
+    "synchronize": false,
+    "logging": false,
+    "entities": [
+       "./src/entity/**/*.ts"
+    ]
+ }

@@ -1,0 +1,22 @@
+<mjml>
+  <mj-body background-color="#FFFFFF" margin="0px">
+    <mj-section>
+      <mj-column>
+        <mj-image width="100px" align="left" src="https://jjquimienvases.com/wp-content/uploads/2020/05/logo-quimienvases.jpg"></mj-image>
+      </mj-column>
+      <mj-column >
+          <mj-text  font-size="30px" color="#F45E43" font-family="helvetica">Reporte Diario</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-divider border-color="#F45E43" />
+
+    <mj-section>
+      <mj-column>
+        <mj-text>
+        Hola
+      </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
